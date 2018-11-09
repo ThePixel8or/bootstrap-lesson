@@ -8,5 +8,6 @@ In this lesson we build a basic landing page for an imaginary service called Whi
 
 As part of this challenge we had to use Bootstrap's core CSS and use one of the many other features that havint been mentioned in the lesson. We had to make use of one and add a new section to our landing page. This section will be called "Monthly favorites" and is going to contain a table of information with the top 5 whiskeys of the month. This table should have two columns: "name" and "origin" (the country the whiskey originated from).
 
+https://thepixel8or.github.io/bootstrap-lesson/
 
 
